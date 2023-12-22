@@ -39,7 +39,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/JarsssStory")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Chjarsss1")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Mutualanrelaxed")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
@@ -52,7 +52,7 @@ SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
 
 
 # Maximum limit for fetching playlist's track from youtube, spotify, apple links.
-PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 25))
+PLAYLIST_FETCH_LIMIT = int(getenv("PLAYLIST_FETCH_LIMIT", 25555))
 
 
 # Telegram audio and video file size limit (in bytes)
